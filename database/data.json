@@ -1,0 +1,33 @@
+{
+  "employee": [
+    {
+      "ename": "Rekha",
+      "email": "rekha.gmail.com",
+      "designation": "Developer",
+      "status": "Active",
+      "id": 1
+    },
+    {
+      "ename": "Lekhana",
+      "email": "lekha.gmail.com",
+      "designation": "Testing",
+      "status": "Inactive",
+      "id": 2
+    },
+    {
+      "ename": "Akash",
+      "email": "akash@gmail.com",
+      "designation": "Developer",
+      "status": "Active",
+      "id": 3
+    },
+    {
+      "ename": "Anusha",
+      "email": "anu@gmail.com",
+      "designation": "Test Engineer",
+      "status": "Inactive",
+      "id": 4
+    }
+    
+  ]
+}
